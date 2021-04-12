@@ -1,0 +1,42 @@
+h2{
+    top:50px;
+    margin-top: 60px;
+    text-align: center;
+    font-size: 35px;
+    color: #8a2b2b;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  hr{
+      color:white;
+  }
+  table,th,td{
+      border: 0px solid black;
+      margin-top: 20px;
+      font-size: 20px;
+	  border-collapse: inherit;
+	}
+  th{
+    background-color: #f593bc;
+    text-align: center;
+  }
+  td{
+    background-color: rgb(135, 224, 240);
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 19px;
+  }
+  table.center
+  {
+    text-align: center;    
+	margin-left: auto;
+        margin-right: auto;
+  }
+  
+  footer{
+    text-align: center;
+    font-size: 20px;
+    color:white;
+  }
+  .sm{
+	  margin-left: 250px;
+  }

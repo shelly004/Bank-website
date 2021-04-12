@@ -1,0 +1,57 @@
+
+  p{
+      margin: 5px;
+      top:600px;
+     
+
+  }
+   h1{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      text-align: center;
+      margin-top:68px;
+      color: rgb(238, 245, 245);
+    } 
+   h4{
+         text-align: center;
+    }
+    
+   label
+   {
+       width: 280px;
+       display: inline-block;
+       
+   }
+   body{
+       background-color: seashell;
+       text-align: center;
+       background-repeat: no-repeat;
+       height: 170px;
+       top:6px;
+       background-image: url(../img/money.jpg);
+
+   }
+  input{
+       border: 2px solid rgb(212, 96, 42);
+       border-radius: 13px;
+       width: 30%;
+       top: 600px;
+       font-size: 23px;
+   }
+   .res{
+     font-style: normal;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 23px;
+     margin-top: 22px;
+     font-size: 30px;
+     color:white;
+   }
+ 
+  #any{
+    width: 2%;
+  }
+.cr{
+  
+  width: 80%;
+  height:100%;
+
+}
